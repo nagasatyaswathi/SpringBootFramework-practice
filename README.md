@@ -9,6 +9,12 @@ This repository contains basic implementations of Spring Boot core concepts.
   - Prototype
 - Dependency Injection
 - Basic Spring Boot Application Setup
+- 
+  ### 2. MyWebApplication
+- Spring MVC with JSP
+- Controller mapping
+- View Resolver configuration
+- Web application setup
 
 ## Technologies Used
 - Java
